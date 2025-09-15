@@ -25,7 +25,7 @@ Automate the process of downloading movies with this Python script.
 
 1. Run the script with the movie name as argument:
    ```bash
-   python movie_download.py "Movie Name"
+   python testcase1.py "Movie Name it's release year"
    ```
 
 2. The script will search and download the movie for you.
