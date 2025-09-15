@@ -4,6 +4,11 @@
 
 Automate the process of downloading movies with this Python script.
 
+## Few Things you should know
+
+1. You should download Brave browser from it's website https://brave.com/
+2. Any day this website may take down in that case this code don't work until then, enjoy!
+
 ## Key Features and Highlights
 - Automates movie download process
 - Simple and easy to use
