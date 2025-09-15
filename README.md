@@ -42,6 +42,3 @@ Automate the process of downloading movies with this Python script.
 4. Push your changes to the branch.
 5. Create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
